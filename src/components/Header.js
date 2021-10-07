@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
       <div className = " ui container">
         <Link to ="/">
        <p className = "active item">
-    SAMMI SHOP
+    ONLINE SHOP
    </p>
    </Link>
    </div>
